@@ -9,7 +9,7 @@ import classes from './navbar.module.css';
 const Menu = () => (
     <>
         <p> <a href="#home">Home</a> </p>
-        <p> <a href="#whsm">What is SM?</a> </p>
+        <p> <a href="#whsm">Who am I?</a> </p>
         <p> <a href="#possibility">Open AI</a> </p>
         <p> <a href="#feature">Case Study</a> </p>
         <p> <a href="#blog">Library</a> </p>

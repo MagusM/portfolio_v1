@@ -13,14 +13,13 @@ const Header = () => {
         <div id="home" className={`${classes[getCssName()]} section__padding`}>
             <div className={classes[getCssName('content')]}>
                 <h1 className="gradient__text">
-                    Let’s Build Something
-                    amazing with Simon
+                    Build Something
+                    amazing with me!
                 </h1>
                 <p>
-                    Yet bed any for travelling assistance indulgence unpleasing.
-                    Not thoughts all exercise blessing.
-                    Indulgence way everything joy alteration boisterous the attachment.
-                    Party we years to order allow asked of.
+                    I'm an experienced full stack team leader and a software developer. <br />
+                    A part of building other amazing apps for myself and other clients,<br />
+                    I can build an amazing product for you as well.
                 </p>
 
                 <div className={classes[getCssName('content__input')]}>
