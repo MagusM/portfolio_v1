@@ -4,7 +4,7 @@ import classes from './footer.module.css';
 
 import {getFullCssClassName} from '/src/utils/cssUtils';
 
-import Logo from '/src/assets/logo.svg'
+import Logo from '/src/assets/logo_no_bg.svg'
 
 const Footer = () => {
     const getCssName = (cssName) => getFullCssClassName(Footer.name, cssName);

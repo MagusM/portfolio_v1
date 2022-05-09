@@ -15,11 +15,13 @@
 
 .sm__navbar-links_logo {
     margin-right: 2rem;
+    display: flex;
+    align-items: center;
 }
 
 .sm__navbar-links_logo img {
-    width: 62.56px;
-    height: 16.02px;
+    width: 100%;
+    height: 30px;
 }
 
 .sm__navbar-links_container {
